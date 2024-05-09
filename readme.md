@@ -1,10 +1,8 @@
-### Travel Activity Planner
-
-#### Overview
+# Travel Activity Planner 🌍
 
 The Travel Activity Planner is a web application designed to simplify the process of planning day itineraries in new cities or destinations. Leveraging generative AI technology, this tool generates personalized day plans tailored to travelers' preferences, interests, and budget constraints. It recommends places to visit, activities to engage in, restaurants to dine at, and transportation options for seamless exploration, providing a comprehensive guide for a memorable travel experience. Moreover, it highlights exclusive activities and discounts available to card members, enriching the travel experience further.
 
-#### Tech Stack
+## Tech Stack 💻
 
 - **Frontend:**
 
@@ -26,9 +24,9 @@ The Travel Activity Planner is a web application designed to simplify the proces
 - **Location-based Services APIs:**
   - Google Maps API
 
-#### Project Structure
+## Project Structure 📁
 
-#### Tasks
+## Features 📝
 
 1. **Design and Develop Generative AI Model:**
 
