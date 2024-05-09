@@ -28,33 +28,6 @@ The Travel Activity Planner is a web application designed to simplify the proces
 
 #### Project Structure
 
-travel-activity-planner/
-│
-├── frontend/ # Frontend React App
-│ ├── public/ # Public assets and index.html
-│ └── src/ # Source files
-│ ├── components/ # React components
-│ ├── App.js # Main component
-│ ├── index.js # Entry point
-│ └── ...
-│
-├── backend/ # Backend Node.js App
-│ ├── controllers/ # Controllers handling API logic
-│ ├── models/ # Database models
-│ ├── routes/ # API routes
-│ ├── utils/ # Utility functions
-│ ├── app.js # Express app setup
-│ └── ...
-│
-├── models/ # Generative AI models
-│ ├── gpt_model.py # OpenAI GPT model
-│ └── ...
-│
-├── database/ # Database configuration
-│ └── ...
-│
-└── README.md # Project README
-
 #### Tasks
 
 1. **Design and Develop Generative AI Model:**
@@ -79,4 +52,3 @@ travel-activity-planner/
 
 6. **Test and Optimize:**
    - Conduct thorough testing to ensure accuracy, relevance, and usability of the travel activity planner. Optimize the application based on user feedback and testing results.
-# Travel-Activity
