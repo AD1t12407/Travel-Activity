@@ -26,6 +26,8 @@ The Travel Activity Planner is a web application designed to simplify the proces
 
 ## Project Structure 📁
 
+
+
 ## Features 📝
 
 1. **Design and Develop Generative AI Model:**
